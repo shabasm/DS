@@ -1,2 +1,2 @@
 # DS
-C programs
+C programming lab
